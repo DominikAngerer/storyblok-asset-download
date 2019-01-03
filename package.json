@@ -1,0 +1,23 @@
+{
+  "name": "storyblok-asset-download",
+  "version": "1.0.0",
+  "description": "An easy way to download all your assets from Storyblok.",
+  "main": "index.js",
+  "dependencies": {
+    "storyblok-js-client": "^1.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikAngerer/storyblok-asset-download.git"
+  },
+  "author": "Dominik Angerer <da@storyblok.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DominikAngerer/storyblok-asset-download/issues"
+  },
+  "homepage": "https://github.com/DominikAngerer/storyblok-asset-download#readme"
+}

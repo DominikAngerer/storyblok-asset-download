@@ -4,9 +4,10 @@
   "description": "An easy way to download all your assets from Storyblok.",
   "main": "index.js",
   "dependencies": {
-    "storyblok-js-client": "^1.0.21"
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "storyblok-js-client": "^5.12.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
